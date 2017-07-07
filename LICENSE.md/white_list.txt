@@ -1,4 +1,3 @@
-# white_list
 youtube.com
 twitch.tv
 uplaypc-s-ubisoft.cdn.ubi.com
